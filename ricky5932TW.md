@@ -8,17 +8,17 @@ timezone: UTC+8
 # 你的名字：ricky5932TW
 
 1. 自我介绍: hello~~
-2. 你认为你会完成本次残酷学习吗？: if the TA mission is trouble-free
+2. 你认为你会完成本次残酷学习吗？: If the TA mission is trouble-free
 3. 你的联系方式（推荐 Telegram）:gmail: ricky5932
 
 ## Notes
 
 <!-- Content_START -->
 
-### 2025.07.11
+### 2025.03.10
 
 笔记内容
 
-### 2025.07.12
+
 
 <!-- Content_END -->
